@@ -1,0 +1,9 @@
+table, th, td, .acc {
+    border: 1px solid #DCDCDC;
+  }
+table {
+    border-spacing: 10px;
+  }
+td {
+    padding:10px;
+  }
